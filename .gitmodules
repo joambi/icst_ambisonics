@@ -1,0 +1,6 @@
+[submodule "themes/lightbi-hugo"]
+	path = themes/lightbi-hugo
+	url = https://github.com/binokochumolvarghese/lightbi-hugo
+[submodule "icst_ambisonics/themes/themes/lightbi-hugo"]
+	path = icst_ambisonics/themes/themes/lightbi-hugo
+	url = https://github.com/binokochumolvarghese/lightbi-hugo
